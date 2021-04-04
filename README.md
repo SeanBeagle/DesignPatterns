@@ -1,7 +1,7 @@
 # DesignPatterns
 Implementation of design patterns in various languages
 
-### The Catalog of Design Patterns
+### Catalog of Design Patterns
 - Abstract Factory
 - Adaptor
 - Bridge
